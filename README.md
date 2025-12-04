@@ -22,7 +22,7 @@ This project demonstrates a modern, AI-powered extension to a legacy CRM platfor
 
 Here’s SugarGPT in action inside SugarCRM:
 
-![SugarGPT Demo](sugargpt_demo.gif)
+![SugarGPT Demo](demo/sugargpt_demo.gif)
 
 The popup loads the RAG assistant UI, allowing real-time Q&A with context pulled from your indexed SugarCRM PDF documentation.
 
